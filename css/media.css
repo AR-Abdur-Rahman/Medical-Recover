@@ -1,0 +1,683 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media  (max-width: 575.98px) {
+
+    .manu ul li a {
+
+        font-size: 20px;
+        padding: 3px !important;
+    }
+
+    .btn_l {
+
+        margin: 10px 0;
+    }
+
+    .btn_join {
+
+        padding: 10px 10px;
+        margin: 12px 0;
+    }
+
+    .content {
+        margin-top: 382px;
+    }
+
+    .heard_box {
+
+        margin-bottom: 25px;
+    }
+
+
+    .bannner_text h1 {
+        width: 80%;
+        margin: auto;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        text-align: center;
+        font-size: 29px;
+    }
+
+    .bannner_text h4 {
+        color: #737373;
+        font-size: 16px;
+        width: 100%;
+        margin: 10px 0 10px;
+    }
+
+    button.btn.btn_get {
+        padding: 12px 18px;
+        font-size: 16px;
+        margin: 20px 10px;
+    }
+
+    .btn_more {
+
+        padding: 12px 18px;
+        font-size: 16px;
+        margin: 0;
+
+    }
+
+    .bannner_text {
+        margin-top: 9px;
+        position: absolute;
+        top: 6px;
+        left: 30px;
+        text-align: center;
+    }
+
+    .bg_img {
+        display: none;
+    }
+
+    .caustom {
+        padding-top: 20px;
+    }
+
+    .meet_text {
+        margin-top: -25px;
+        text-align: center;
+    }
+
+    .meet_text span {
+        margin: auto;
+    }
+
+    .expart {
+        text-align: center;
+        margin-top: 27px;
+    }
+
+    .meet_text h2 {
+        font-size: 34px;
+        margin-top: 20px;
+    }
+
+    .depa_text {
+        text-align: center;
+    }
+
+    .depa_text p {
+        width: 100%;
+        text-align: center;
+        margin: auto;
+    }
+
+    .product_card {
+        margin-top: 50px;
+    }
+
+    .product_text {
+        background: #FFFFFF;
+        padding: 10px 10px;
+    }
+
+    .leading_sec {
+        text-align: center;
+        padding-top: 81px;
+        padding-bottom: 81px;
+    }
+
+    .leading_text h2 {
+        font-size: 27px;
+
+    }
+
+    .testimonial {
+        padding-top: 39px;
+        padding-bottom: 35px;
+    }
+
+    .user_text {
+        margin-bottom: 30px;
+    }
+
+    .team_text {
+        text-align: center;
+        padding-bottom: 50px;
+    }
+
+    .team_text p {
+        width: 75%;
+        margin: auto;
+    }
+
+    .news_text p {
+        width: auto;
+
+        margin: auto;
+    }
+
+    .email {
+        width: 84%;
+        padding: 8px 17px;
+    }
+
+    .btn_sub {
+        padding: 8px 17px;
+        left: 63%;
+    }
+
+    .news_text {
+        padding-top: 12%;
+    }
+
+    .form {
+        padding-bottom: 8%;
+        padding-top: 8px;
+    }
+
+    .news_sec {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    footer {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        text-align: center;
+    }
+
+    .company {
+        margin-bottom: 24px;
+    }
+
+    .legal {
+        margin-bottom: 24px;
+    }
+
+    .features {
+        margin-bottom: 24px;
+    }
+
+    .resources {
+        margin-bottom: 24px;
+    }
+/* avvk */
+    .location i {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 25px;
+        margin-bottom: 16px;
+    }
+
+    .phone i {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 25px;
+        margin-bottom: 16px;
+    }
+
+    .location span {
+        margin-top: -4px;
+    }
+
+    .mail {
+        margin-top: 26px;
+    }
+
+    .mail i {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 25px;
+        margin-bottom: 16px;
+    }
+
+    .foot {
+        display: block;
+    }
+
+    .copy_icon {
+        margin-top: 20px;
+    }
+
+
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width:767.98px) {
+
+    .manu ul li a {
+
+        font-size: 20px;
+        padding: 3px !important;
+    }
+
+    .btn_l {
+
+        margin: 10px 0;
+    }
+
+    .btn_join {
+
+        padding: 10px 10px;
+        margin: 12px 0;
+    }
+
+    .content {
+        margin-top: 382px;
+    }
+
+    .heard_box {
+
+        margin-bottom: 25px;
+    }
+
+
+    .bannner_text h1 {
+        width: 80%;
+        margin: auto;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        text-align: center;
+        font-size: 29px;
+    }
+
+    .bannner_text h4 {
+        color: #737373;
+        font-size: 16px;
+        width: 100%;
+        margin: 10px 0 10px;
+    }
+
+    button.btn.btn_get {
+        padding: 12px 18px;
+        font-size: 16px;
+        margin: 20px 10px;
+    }
+
+    .btn_more {
+
+        padding: 12px 18px;
+        font-size: 16px;
+        margin: 0;
+
+    }
+
+    .bannner_text {
+        margin-top: 9px;
+        position: absolute;
+        top: 6px;
+        left: 30px;
+        text-align: center;
+    }
+
+    .bg_img {
+        display: none;
+    }
+
+    .caustom {
+        padding-top: 20px;
+    }
+
+    .meet_text {
+        margin-top: -25px;
+        text-align: center;
+    }
+
+    .meet_text span {
+        margin: auto;
+    }
+
+    .expart {
+        text-align: center;
+        margin-top: 27px;
+    }
+
+    .meet_text h2 {
+        font-size: 34px;
+        margin-top: 20px;
+    }
+
+    .depa_text {
+        text-align: center;
+    }
+
+    .depa_text p {
+        width: 100%;
+        text-align: center;
+        margin: auto;
+    }
+
+    .product_card {
+        margin-top: 50px;
+    }
+
+    .product_text {
+        background: #FFFFFF;
+        padding: 10px 10px;
+    }
+
+    .leading_sec {
+        text-align: center;
+        padding-top: 81px;
+        padding-bottom: 81px;
+    }
+
+    .leading_text h2 {
+        font-size: 27px;
+
+    }
+
+    .testimonial {
+        padding-top: 39px;
+        padding-bottom: 35px;
+    }
+
+    .user_text {
+        margin-bottom: 30px;
+    }
+
+    .team_text {
+        text-align: center;
+        padding-bottom: 50px;
+    }
+
+    .team_text p {
+        width: 75%;
+        margin: auto;
+    }
+
+    .news_text p {
+        width: auto;
+
+        margin: auto;
+    }
+
+    .email {
+        width: 84%;
+        padding: 8px 17px;
+    }
+
+    .btn_sub {
+        padding: 8px 17px;
+    }
+
+    button.btn.btn_sub {
+        left: 65%;
+    }
+
+    .news_text {
+        padding-top: 12%;
+    }
+
+    .form {
+        padding-bottom: 8%;
+        padding-top: 8px;
+    }
+    
+    .news_sec {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    footer {
+        text-align: center;
+    }
+
+    .company {
+        margin-bottom: 24px;
+    }
+
+    .legal {
+        margin-bottom: 24px;
+    }
+
+    .features {
+        margin-bottom: 24px;
+    }
+
+    .resources {
+        margin-bottom: 24px;
+    }
+
+
+
+
+
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    .manu ul li a {
+        
+        font-size: 20px;
+        padding: 3px !important;
+    }
+
+    .btn_l {
+
+        margin: 0 0 10px;
+    }
+
+    .btn_join {
+
+        padding: 10px 10px;
+        margin-left: 19px;
+    }
+
+    .bannner_text h1 {
+        font-size: 37px;
+        width: 50%;
+        margin: 7px 0;
+    }
+
+    .bannner_text {
+        margin-top: -27px;
+        position: absolute;
+        top: 20px;
+        left: 69px;
+    }
+
+    .caustom {
+        padding-top: 20px;
+    }
+
+    .content {
+        margin-top: -65px;
+    }
+
+    .icon_text h3 {
+        font-size: 19px;
+        margin: 19px 0;
+    }
+
+    .heard_box {
+        padding: 30px 15px;
+    }
+
+    .product_text h5 {
+        font-size: 21px;
+    }
+
+    .frame_taxt p {
+        font-size: 14px;
+        margin-right: 0;
+    }
+
+    .depa_text {
+        text-align: center;
+    }
+
+    .depa_text p {
+        width: 77%;
+        text-align: center;
+        margin: auto;
+    }
+
+    .meet_text {
+        margin-top: 72px;
+        text-align: center;
+    }
+
+    .meet_text span {
+        margin: auto;
+        margin-bottom: 32px;
+    }
+
+    .frame_sec {
+        display: flex;
+        align-items: center;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        margin-left: 0;
+        margin-right: 0;
+        justify-content: flex-start;
+    }
+
+    .frame_taxt {
+        margin-left: 0;
+        /* margin-right: 0; */
+    }
+
+    .product_text p {
+        font-size: 14px;
+    }
+
+    .test_pic {
+        margin-right: 19px;
+    }
+
+    
+    footer {
+        text-align: center;
+    }
+
+    .mail i {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 25px;
+        margin-bottom: 16px;
+    }
+
+    .location i {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 25px;
+        margin-bottom: 16px;
+    }
+
+    .phone i {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 25px;
+        margin-bottom: 16px;
+    }
+
+    .location span {
+        margin-top: 0px;
+    }
+
+    .company {
+        margin-bottom: 24px;
+    }
+
+    .legal {
+        margin-bottom: 24px;
+    }
+
+    .features {
+        margin-bottom: 24px;
+    }
+
+    .resources {
+        margin-bottom: 24px;
+    }
+
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    .manu ul li a {
+        padding: 0 22px !important;
+        font-size: 18px;
+    }
+
+    .btn_l {
+        
+        margin-right: 45px;
+    }
+
+    .bannner_text {
+        margin-top: 0px;
+        left: 94px;
+    }
+
+    .bannner_text h1 {
+        margin: 9px 0;
+        font-size: 58px;
+        width: 56%;
+    }
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+
+/*XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+	
+}
+
+@media (min-width: 2560px) {
+	
+    .bannner_text {
+        margin-top: 72px;
+        position: absolute;
+        top: 6px;
+        left: 26%;
+    }
+
+    .bannner_text h4 {
+        font-size: 25px;
+        margin: 30px 0px;
+    }
+
+    .btn_sub{
+        left: 59%;
+    }
+
+}
+
+@media (min-width: 2100px) {
+
+    .btn_sub{
+        left: 62%;
+    }
+    
+}
+
+@media (min-width: 1800px) {
+
+    .btn_sub{
+        left: 62%;
+    }
+
+    .bannner_text {
+        left: 246px;
+    }
+    
+}
+@media (min-width: 1600px) {
+
+    .bannner_text {
+        left: 167px;
+    }
+    
+}
+
+
+/*Extra devices chack for screen size(1600-1800-2100)*/
