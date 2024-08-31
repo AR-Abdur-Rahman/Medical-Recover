@@ -155,7 +155,7 @@
 
     .btn_sub {
         padding: 8px 17px;
-        left: 63%;
+        left: 65%;
     }
 
     .news_text {
@@ -632,6 +632,40 @@
 	
 }
 
+/*Extra devices chack for screen size(1600-1800-2100)*/
+@media (min-width: 1600px) {
+
+    .bannner_text {
+        left: 167px;
+    }
+    
+}
+
+@media (min-width: 1800px) {
+
+    .btn_sub{
+        left: 62%;
+    }
+
+    .bannner_text {
+        left: 246px;
+    }
+    
+}
+
+@media (min-width: 2100px) {
+
+    .btn_sub{
+        left: 62%;
+    }
+
+    .bannner_text {
+        left: 400px;
+    }
+    
+}
+
+
 @media (min-width: 2560px) {
 	
     .bannner_text {
@@ -650,33 +684,6 @@
         left: 59%;
     }
 
-}
-
-@media (min-width: 2100px) {
-
-    .btn_sub{
-        left: 62%;
-    }
-    
-}
-
-@media (min-width: 1800px) {
-
-    .btn_sub{
-        left: 62%;
-    }
-
-    .bannner_text {
-        left: 246px;
-    }
-    
-}
-@media (min-width: 1600px) {
-
-    .bannner_text {
-        left: 167px;
-    }
-    
 }
 
 
