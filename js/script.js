@@ -1,14 +1,18 @@
-// counter plugin
+$(document).ready(function(){
 
-$('.counter').counterUp({
-    delay: 10,
-    time: 1000
-});
+    // counter plugin
 
-// Aos plugin
+    $('.counter').counterUp({
+        delay: 10,
+        time: 1000
+    });
 
-AOS.init({
-    delay: 3000,
-    duration:2000,
-    offset: 120
+    // Aos plugin
+
+    AOS.init({
+        delay: 5000,
+        duration:2000,
+        offset: 50
+    });
+
 });
